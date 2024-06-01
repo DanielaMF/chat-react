@@ -9,10 +9,12 @@
   align-self: flex-end;
   align-items: end;
   border: 1px solid black;
-  margin: 20px 0 0 80%;
+  margin: 20px 0 0 auto;
   padding: 5px;
   border-radius: 6px;
-  max-width: fit-content;
+  max-width: 80%;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
 }
 
 h1 {

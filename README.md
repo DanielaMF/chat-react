@@ -1,1 +1,1 @@
-Aplicação de chat usando prioritariamente React como projeto à matéria de Frontend UNISATC
+Aplicação de chat usando primariamente React como projeto à matéria de Frontend UNISATC
